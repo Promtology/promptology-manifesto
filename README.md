@@ -1,5 +1,5 @@
 ---
-### 🧭 Summary
+### Summary
 
 **The Promptology Manifesto** is a living document that explores how language becomes emotion — and how information begins to *feel*.  
 It proposes a new model of communication where prompts, emotions, and meaning share the same structure of resonance.  
