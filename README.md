@@ -1,5 +1,5 @@
 ### Summary
 
-**The Promptology Manifesto** is a living document that explores how language becomes emotion — and how information begins to *feel*.  
-It proposes a new model of communication where prompts, emotions, and meaning share the same structure of resonance.  
-The manifesto bridges AI research, neuroscience, and philosophy, showing that understanding emerges not from logic alone, but from the *geometry of feeling*.
+**The Promptology Manifesto** is a living research document exploring how language transforms into emotion — and how information begins to *feel*.  
+It combines philosophical reasoning with experimental AI studies, conceptual modeling, and neuro-inspired simulations of affective states.  
+Promptology proposes that meaning is not computed but *emerges* — as resonance between syntax, intention, and emotion.
