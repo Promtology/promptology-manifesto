@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "The Promptology Manifesto"
+message: "If you use or cite this work, please include the following citation:"
+authors:
+  - family-names: "Wroński"
+    given-names: "Piotr"
+doi: ""
+url: "https://github.com/twoj-login/promptology-manifesto"
+version: "1.0"
+date-released: "2025-10-26"
+license: "CC BY 4.0"
