@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-# 🧠 Promptological Reflection / Idea Template
+# Promptological Reflection / Idea Template
 
 ## 🇵🇱 Opis / Description
 Napisz krótko, czego dotyczy Twoje zgłoszenie:  
